@@ -1,2 +1,6 @@
 .terraform/
 *.tfvars
+.kitchen/
+.ruby-version
+Gemfile.lock
+terraform.tfstate*
