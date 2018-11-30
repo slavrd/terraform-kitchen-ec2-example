@@ -31,7 +31,7 @@ A basic terraform-kitchen example testing an EC2 instance created with TF AWS pr
 
 ### Create Terraform variables file
 
-Create file testing.tfvars in the project directory. In it place the following variables and their values as key-value pairs
+Create file `testing.tfvars` in the project directory. In it place the following variables and their values as key-value pairs
 
 ```HCL
 access_key = "your AWS access key id"
